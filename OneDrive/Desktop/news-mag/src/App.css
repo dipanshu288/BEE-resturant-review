@@ -1,8 +1,0 @@
-.nav-link {
-  transition: color 0.3s ease; /* Add smooth transition effect */
-}
-
-.nav-link:hover {
-  color: #ffffff; /* Change text color on hover */
-  background-color: #343a40; /* Change background color on hover */
-}
